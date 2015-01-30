@@ -1,11 +1,24 @@
 <!doctype HTML>
-<html>
+<html lang="en">
 <head>
 	<title>{{page.title}}</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+	<link href='http://fonts.googleapis.com/css?family=Exo|Vollkorn' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" href="standard.css" type="text/css"/>
-	<link href='http://fonts.googleapis.com/css?family=Anonymous+Pro:regular,italic,bold' rel='stylesheet' type='text/css' />
 </head>
 <body>
-	{{ content }}
+	<div class="container">
+		<div class="row">
+			<div class="col-xs-2">
+				<h3><a href="/">Home</a></h3>
+				<h3><a href="/dojos.html">Dojos</a></h3>
+			</div>
+			<div class="col-xs-8">
+				{{ content }}
+			</div>
+		</div>
+	</div>
 </body>
 </html>
