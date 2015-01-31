@@ -30,9 +30,9 @@ sometimes someone will prepare something special.
 By the end of the evening you should have written at least one line of
 code even if it is ```(println "Hello world!")```.
 
-According to this
-[blog post](https://otfrom.wordpress.com/2012/07/04/how-to-run-a-london-clojure-dojo-in-20ish-easy-steps/),
-most London Clojure Dojos are something like this:
+If you want to know how to run a dojo, then take a look
+[here](how-to-run-a-dojo.html), but if you want to know what is like
+to participate, well, then it is something like this:
 
 * When you arrive at the dojo there should be a group of friendly
   welcoming people who are into clojure already or curious about
