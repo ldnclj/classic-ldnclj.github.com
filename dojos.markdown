@@ -27,7 +27,7 @@ Because the coding pair are doing a really hard thing and keeping quiet is a way
 
 Because people are interested in the thought-processes you are going through to solve the problem. It is particularly helpful for beginners to see how more advanced coders break down a big problems into more soluble parts.
 
-### Why do you sissy girly-men use tests and TDD?
+### Why do you use tests and TDD?
 
 If you are working on your own code in a functional style then you may not really need much in the way of testing. If you only work on a codebase once a month and then when you do ten different people work on it in often different styles you really need some tests to try and make sure that your functionality is still consistent.
 
