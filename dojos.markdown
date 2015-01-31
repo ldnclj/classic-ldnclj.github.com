@@ -5,32 +5,63 @@ title: London Clojure Dojos
 
 # Clojure Dojos
 
-The dojos are based around ongoing piece of work that is built on month by month. The implementation is via pair programming and the pair's laptop is projected for everyone to follow what's going on.
+We currently have two monthly dojos, which are practical events, in
+London. You can find out more details on the
+[London Clojurians Mailing List](https://groups.google.com/forum/#!forum/london-clojurians).
+
+The purpose of the dojos is to have fun, meet new people, see old
+friends and learn some clojure along the way.
 
 ## FAQ
 
 ### How much Clojure do I need to know before I come to a dojo?
 
-None. Really, it's about learning. The first one you go to may be baffling but you are going to see real people working with real code and that is going to be much more helpful that slogging your way through another chapter of a book.
+None. Really, it's about learning. The first one you go to may be
+baffling but you are going to see real people working with real code
+and that is going to be much more helpful that slogging your way
+through another chapter of a book.
 
-### Do I have to have a go the first time I come to a dojo?
+### What is going to a dojo like?
 
-While it would be great to have a Fight Club-esque rule, it's not necessary. However it's not as scary as it seems and it can be empowering to just launch yourself into it. Rather like jumping into a pool rather than inching your way in.
+Dojos are practical and fun sessions. We tend to break into small
+teams of people and work on problems we've chosen that evening, though
+sometimes someone will prepare something special.
 
-On a practical note the best slot to take if you want to build your confidence is the last co-pilot of the night as you'll get to talk to the pilot but not actually have to code yourself.
+By the end of the evening you should have written at least one line of
+code even if it is ```(println "Hello world!")```.
 
-### Why can't we talk during a dojo round?
+According to this
+[blog post](https://otfrom.wordpress.com/2012/07/04/how-to-run-a-london-clojure-dojo-in-20ish-easy-steps/),
+most London Clojure Dojos are something like this:
 
-Because the coding pair are doing a really hard thing and keeping quiet is a way of having some respect for that effort they are putting in. It can also be really distracting. There is usually a mixing session before the dojo and a stop at the pub at the end so there's still plenty of time to talk to people.
+* When you arrive at the dojo there should be a group of friendly
+  welcoming people who are into clojure already or curious about
+  clojure. Asking people about clojure and why they are interested in
+  it is a great ice breaker question if you've not been before.
 
-### When we're coding why do we have to talk?
+* Sometimes there are drinks, both alcoholic and non-alcoholic, and
+  food of some sort, but it isn't essential.
 
-Because people are interested in the thought-processes you are going through to solve the problem. It is particularly helpful for beginners to see how more advanced coders break down a big problems into more soluble parts.
+* There might be a white board where people write down ideas for the
+  evening. Usually there is a group of beginners as well who might
+  want to do something like work through problems on
+  [4 clojure](http://www.4clojure.com/). There is usually a mixed
+  group of experience, so you can usually find a group or activity
+  that will be fun.
 
-### Why do you use tests and TDD?
+* You should have about an hour, or a bit more to work with your team
+  on your chosen task for the evening.
 
-If you are working on your own code in a functional style then you may not really need much in the way of testing. If you only work on a codebase once a month and then when you do ten different people work on it in often different styles you really need some tests to try and make sure that your functionality is still consistent.
+* After that, there is show and tell, where you can share what you
+  learned with everyone else. Even saying that you had trouble getting
+  things going is useful as then we can all learn where the difficult
+  bits of the language and the environment are.
 
-### Why can't we work on the code and checkin between sessions?
+* Don't forget to post your code to github. So that your team can see
+  what you worked on.
 
-Because dojos are about learning and more specifically collective learning, changes should made by the group so the group have the chance to ask questions about those changes. You are free to discuss the dojo on the mail list and to fork the code and experiment on your own. Remember this isn't about your l33t skills with Clojure, it is about making all of us better Clojure coders.
+* Then we clean up to make things easier for our hosts and go to the
+  pub or go home.
+
+* In between dojos, we usually discuss what we did in the dojo on the
+  [London Clojurians Mailing List](https://groups.google.com/forum/#!forum/london-clojurians).
