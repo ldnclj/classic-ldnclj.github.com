@@ -7,7 +7,7 @@ title : London Clojurians
 
 We are people who live in London and are interested in programming in [Clojure](http://clojure.org/).
 
-Currently our mains activity are 2 [monthly dojos](dojos.html) where
+Currently our main activities are 2 [monthly dojos](dojos.html) where
 we help one another to learn Clojure and provide a chance to code that
 our day jobs may not allow and talks at
 [SkillsMatter](https://skillsmatter.com/explore?q=clojure).
