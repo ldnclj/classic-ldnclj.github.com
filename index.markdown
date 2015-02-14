@@ -31,8 +31,8 @@ We hold talks at
 [SkillsMatter](https://skillsmatter.com/explore?sort_by=asc&q=clojure&location=&content=meetups)
 on the first Tuesday of the month every month except January and December.
 
-Our next talk at SkillMatter on 3 February is from Tom Crayford called
-[Opening the Grimoire - some things about clojure performance ](https://skillsmatter.com/meetups/6953-opening-the-grimoire-some-things-about-clojure-performance).
+Our next talk at SkillsMatter on 3 March is from [Bodil Stokke](http://twitter.com/bodil) called
+[µKanren: Running the Little Things Backwards ](https://skillsmatter.com/meetups/7025-kanren-running-the-little-things-backwards).
 
 ### Dojos
 
