@@ -47,14 +47,10 @@ events on the
 
 Dojos at uSwitch are on the second Monday of the month.
 
-Our next dojo at uSwitch 9 February.
-
 #### ThoughtWorks Dojo
 
 Dojos at ThoughtWorks are on the last Tuesday of the month, except
 December.
-
-The next Thoughtworks dojo will be on 24 February.
 
 ### Clojurian Lunches
 
@@ -63,8 +59,8 @@ have organised lunches near their workplaces.
 
 #### City of London Clojurian Lunch
 
-The next fortnightly London Clojurian City of London Lunch in the city
-is on 11 February. There are more details on the
+The monthly London Clojurian City of London Lunches are held on the
+4th Wednesday of the month. There are more details on the
 [mailing list](http://groups.google.com/group/london-clojurians).
 
 ### Yearly Conference
