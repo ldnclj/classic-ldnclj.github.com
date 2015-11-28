@@ -32,7 +32,7 @@ We hold talks at
 on the first Tuesday of the month every month except January and December.
 
 Our next talk at SkillsMatter is on 2 February and is from Mark
-Needham and will focus on using CLojure with Neo4J (TBC).
+Needham and will focus on using Clojure with Neo4J (TBC).
 
 ### Dojos
 
@@ -59,7 +59,7 @@ Dojos at uSwitch are on the second Monday of the month.
 Dojos at ThoughtWorks are on the last Tuesday of the month, except
 December.
 
-#### ProCloDo (ProCloDo - please ask your Doctor before taking ProCloDo)
+#### ProCloDo (please ask your Doctor before taking ProCloDo)
 
 ProCloDo is hosted at Salesforce's offices in Heron Towers, 110 Bishopsgate,
 EC2N 4AY. Currently we are building an event management application. Sign up
