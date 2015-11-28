@@ -5,9 +5,9 @@ title : London Clojurians
 
 # The London Clojure Group
 
-We are people who live in London and are interested in programming in [Clojure](http://clojure.org/).
+We are people who live and/or work in London and are interested in programming in [Clojure](http://clojure.org/).
 
-Currently our main activities are 2 [monthly dojos](dojos.html) where
+Currently our main activities are 3 [monthly dojos](dojos.html) where
 we help one another to learn Clojure and provide a chance to code that
 our day jobs may not allow and talks at
 [SkillsMatter](https://skillsmatter.com/explore?q=clojure).
@@ -31,17 +31,24 @@ We hold talks at
 [SkillsMatter](https://skillsmatter.com/explore?sort_by=asc&q=clojure&location=&content=meetups)
 on the first Tuesday of the month every month except January and December.
 
-Our next talk at SkillsMatter on 3 March is from [Bodil Stokke](http://twitter.com/bodil) called
-[µKanren: Running the Little Things Backwards ](https://skillsmatter.com/meetups/7025-kanren-running-the-little-things-backwards).
+Our next talk at SkillsMatter is on 2 February and is from Mark
+Needham and will focus on using CLojure with Neo4J (TBC).
 
 ### Dojos
 
-We currently run two [dojos](dojos.html) per month, which are kindly
-hosted by uSwitch and ThoughtWorks.
+We currently run two standard [dojos](dojos.html) per month, which are kindly
+hosted by uSwitch and ThoughtWorks. These dojos concentrate on solving
+programming kata in one session.
 
 The dojo sign up pages and details will be announced closer to the
 events on the
 [mailing list](http://groups.google.com/group/london-clojurians).
+
+We also run a longer running 'episodal' dojo every month, called the Progressive
+Clojure Dojo.
+
+A new addition to the lineup is a pair programming meetup that aims to
+share problems and learn through pairing with fellow enthusiasts.
 
 #### uSwitch Dojo
 
@@ -51,6 +58,17 @@ Dojos at uSwitch are on the second Monday of the month.
 
 Dojos at ThoughtWorks are on the last Tuesday of the month, except
 December.
+
+#### ProCloDo (ProCloDo - please ask your Doctor before taking ProCloDo)
+
+ProCloDo is hosted at Salesforce's offices in Heron Towers, 110 Bishopsgate,
+EC2N 4AY. Currently we are building an event management application. Sign up
+[here](https://docs.google.com/forms/d/1SgT6dQksU3eDDJp37cX2dzcDRODEPF1-wDWEJJA2uL0/viewform)
+
+#### Clojure Pair Programming
+
+The first Clojure pair programming event is on the 8th December. You
+can register your interest [here](https://www.eventbrite.co.uk/e/clojure-pair-programming-tickets-19726034099).
 
 ### Clojurian Lunches
 
@@ -69,7 +87,8 @@ Tickets are already available for our yearly London Conference at
 Skills Matter. You can find out more on the
 [2015 Clojure eXchange page](https://skillsmatter.com/conferences/6861-clojure-exchange-2015).
 
-The Call for Presentations will be announced in the Summer.
+The Programme has been published on [Skills Matter's website](https://skillsmatter.com/conferences/6861-clojure-exchange-2015#program) and it
+looks very exciting.
 
 ## Talk to us
 
@@ -79,4 +98,4 @@ where you discuss any projects you are working on or any events the user
 group should be putting on.
 
 You can also find us on [freenode irc](http://freenode.net/) on the
-#ldnclj channel.
+#ldnclj channel and on [slack](https://clojurians.slack.com).
