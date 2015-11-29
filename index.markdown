@@ -70,17 +70,6 @@ EC2N 4AY. Currently we are building an event management application. Sign up
 The first Clojure pair programming event is on the 8th December. You
 can register your interest [here](https://www.eventbrite.co.uk/e/clojure-pair-programming-tickets-19726034099).
 
-### Clojurian Lunches
-
-Evening and weekend events don't work for everyone. So some people
-have organised lunches near their workplaces.
-
-#### City of London Clojurian Lunch
-
-The monthly London Clojurian City of London Lunches are held on the
-4th Wednesday of the month. There are more details on the
-[mailing list](http://groups.google.com/group/london-clojurians).
-
 ### Yearly Conference
 
 Tickets are already available for our yearly London Conference at
