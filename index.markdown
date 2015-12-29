@@ -9,7 +9,7 @@ We are people who live and/or work in London and are interested in programming i
 
 Currently our main activities are 3 [monthly dojos](dojos.html) where
 we help one another to learn Clojure and provide a chance to code that
-our day jobs may not allow and talks at
+our day jobs may not allow and talks and a pair programming session at
 [SkillsMatter](https://skillsmatter.com/explore?q=clojure).
 
 We also organise occasional lunches, hack days, reading groups,
@@ -67,8 +67,9 @@ EC2N 4AY. Currently we are building an event management application. Sign up
 
 #### Clojure Pair Programming
 
-The first Clojure pair programming event is on the 8th December. You
-can register your interest [here](https://www.eventbrite.co.uk/e/clojure-pair-programming-tickets-19726034099).
+The Clojure pair programming event is usually the second Tuesday of
+the month. You
+can register your interest [here](https://skillsmatter.com/explore?q=clojure+pair+programming)
 
 ### Yearly Conference
 
