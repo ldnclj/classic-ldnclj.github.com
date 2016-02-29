@@ -7,7 +7,7 @@ title : London Clojurians
 
 We are people who live and/or work in London and are interested in programming in [Clojure](http://clojure.org/).
 
-Currently our main activities are 3 [monthly dojos](dojos.html) where
+Currently our main activities are 2 [monthly dojos](dojos.html) where
 we help one another to learn Clojure and provide a chance to code that
 our day jobs may not allow and talks at
 [SkillsMatter](https://skillsmatter.com/explore?q=clojure).
@@ -44,9 +44,6 @@ The dojo sign up pages and details will be announced closer to the
 events on the
 [mailing list](http://groups.google.com/group/london-clojurians).
 
-We also run a longer running 'episodal' dojo every month, called the Progressive
-Clojure Dojo.
-
 #### uSwitch Dojo
 
 Dojos at uSwitch are on the second Monday of the month.
@@ -55,12 +52,6 @@ Dojos at uSwitch are on the second Monday of the month.
 
 Dojos at ThoughtWorks are on the last Tuesday of the month, except
 December.
-
-#### ProCloDo (please ask your Doctor before taking ProCloDo)
-
-ProCloDo is hosted at Salesforce's offices in Heron Towers, 110 Bishopsgate,
-EC2N 4AY. Currently we are building an event management application. Sign up
-[here](https://docs.google.com/forms/d/1SgT6dQksU3eDDJp37cX2dzcDRODEPF1-wDWEJJA2uL0/viewform)
 
 ### Yearly Conference
 
