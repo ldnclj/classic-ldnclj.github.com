@@ -40,6 +40,10 @@ We currently run two standard [dojos](dojos.html) per month, which are kindly
 hosted by uSwitch and ThoughtWorks. These dojos concentrate on solving
 programming kata in one session.
 
+We also host an 'episodal' dojo, the Progressive Clojure Dojo (ProCloDo), that is building a
+Clojure/Clojurescript web application over a number of months. This is
+hosted at [SkillMatter](https://skillsmatter.com/groups/87-london-clojure-community)
+
 The dojo sign up pages and details will be announced closer to the
 events on the
 [mailing list](http://groups.google.com/group/london-clojurians).
@@ -52,6 +56,16 @@ Dojos at uSwitch are on the second Monday of the month.
 
 Dojos at ThoughtWorks are on the last Tuesday of the month, except
 December.
+
+#### ProCloDo
+
+The Progressive Clojure Dojo is currently building a
+Clojure/Clojurescript web application over a period of months. The
+intention is to give Clojurians who don't write much/any Clojure in
+their day job to explore the disciplines involved in building, testing
+and deploying an application. Keep an eye on the London Clojurians
+[SkillMatter](https://skillsmatter.com/groups/87-london-clojure-community)
+page for sign up details.
 
 ### Yearly Conference
 
