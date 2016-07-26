@@ -42,7 +42,7 @@ programming kata in one session.
 
 We also host an 'episodal' dojo, the Progressive Clojure Dojo (ProCloDo), that is building a
 Clojure/Clojurescript web application over a number of months. This is
-hosted at [SkillMatter](https://skillsmatter.com/groups/87-london-clojure-community)
+hosted at [SkillsMatter](https://skillsmatter.com/groups/87-london-clojure-community)
 
 The dojo sign up pages and details will be announced closer to the
 events on the
@@ -64,17 +64,18 @@ Clojure/Clojurescript web application over a period of months. The
 intention is to give Clojurians who don't write much/any Clojure in
 their day job to explore the disciplines involved in building, testing
 and deploying an application. Keep an eye on the London Clojurians
-[SkillMatter](https://skillsmatter.com/groups/87-london-clojure-community)
+[SkillsMatter](https://skillsmatter.com/groups/87-london-clojure-community)
 page for sign up details.
 
 ### Yearly Conference
 
 Tickets are already available for our yearly London Conference at
 Skills Matter. You can find out more on the
-[2015 Clojure eXchange page](https://skillsmatter.com/conferences/6861-clojure-exchange-2015).
+[2016 Clojure eXchange page](https://skillsmatter.com/conferences/7430-clojure-exchange-2016)
 
-The Programme has been published on [Skills Matter's website](https://skillsmatter.com/conferences/6861-clojure-exchange-2015#program) and it
-looks very exciting.
+The Call for Papers for talk submissions is currently open. If you
+have an interesting library, project, perspective or experiences about Clojure or
+Clojurescript to share please [submit a 30 min or 10 min talk](https://skillsmatter.com/conferences/7430-clojure-exchange-2016#get_involved)
 
 ## Talk to us
 
