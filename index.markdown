@@ -31,8 +31,8 @@ We hold talks at
 [SkillsMatter](https://skillsmatter.com/explore?sort_by=asc&q=clojure&location=&content=meetups)
 on the first Tuesday of the month every month except January and December.
 
-Our next talk at SkillsMatter is on 2 February and is from Mark
-Needham and will focus on using Clojure with Neo4J (TBC).
+If you would like to speak at our monthly event, please <a href="mailto:london-clojurians-organisers@googlegroups.com
+?Subject=Volunteer%20Speaker" target="_top">email the London Clojurian organisers</a> 
 
 ### Dojos
 
